@@ -1,0 +1,8 @@
+{
+  "name": "메타스터디 퀘스트 (MetaStudy Quest)",
+  "description": "대학생 전공 & 교양 강의자료(PDF/노트)를 업로드하면 핵심 개념을 자동 추출하여 스피드 카드 매칭, 보스 레이드 퀴즈, 서바이벌 타임어택 등 재미있는 게임으로 완벽 암기하는 대학생 특화 AI 학습 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
